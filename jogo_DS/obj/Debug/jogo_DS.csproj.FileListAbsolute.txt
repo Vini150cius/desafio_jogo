@@ -1,0 +1,16 @@
+C:\Users\Alunos\Desktop\jogo_DS\jogo_DS\obj\Debug\jogo_DS.csproj.AssemblyReference.cache
+C:\Users\Alunos\Desktop\jogo_DS\jogo_DS\obj\Debug\jogo_DS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alunos\Desktop\jogo_DS\jogo_DS\obj\Debug\jogo_DS.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\jogo_DS\jogo_DS\bin\Debug\jogo_DS.exe.config
+C:\Users\Alunos\Desktop\jogo_DS\jogo_DS\bin\Debug\jogo_DS.exe
+C:\Users\Alunos\Desktop\jogo_DS\jogo_DS\bin\Debug\jogo_DS.pdb
+C:\Users\Alunos\Desktop\jogo_DS\jogo_DS\obj\Debug\jogo_DS.exe
+C:\Users\Alunos\Desktop\jogo_DS\jogo_DS\obj\Debug\jogo_DS.pdb
+D:\2º Ano\DS\jogo_DS\jogo_DS\bin\Debug\jogo_DS.exe.config
+D:\2º Ano\DS\jogo_DS\jogo_DS\bin\Debug\jogo_DS.exe
+D:\2º Ano\DS\jogo_DS\jogo_DS\bin\Debug\jogo_DS.pdb
+D:\2º Ano\DS\jogo_DS\jogo_DS\obj\Debug\jogo_DS.csproj.AssemblyReference.cache
+D:\2º Ano\DS\jogo_DS\jogo_DS\obj\Debug\jogo_DS.csproj.CoreCompileInputs.cache
+D:\2º Ano\DS\jogo_DS\jogo_DS\obj\Debug\jogo_DS.exe
+D:\2º Ano\DS\jogo_DS\jogo_DS\obj\Debug\jogo_DS.pdb
+D:\2º Ano\DS\jogo_DS\jogo_DS\obj\Debug\jogo_DS.csproj.SuggestedBindingRedirects.cache
